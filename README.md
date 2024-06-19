@@ -1,5 +1,7 @@
 # CreditRiskClassification
 
+[image](https://www.google.com/imgres?q=credit%20image&imgurl=https%3A%2F%2Fwww.balancecredit.com%2Fstatic%2Fbuild_credit-graphic-a6560d3e643091dfc8894085b5033958.png&imgrefurl=https%3A%2F%2Fwww.balancecredit.com%2Fbuild-credit%2F&docid=l6u7nes-BoTAjM&tbnid=er5bqVHuKEJZuM&vet=12ahUKEwjAj-jCjeiGAxXTCTQIHSFNDGgQM3oECBMQAA..i&w=2567&h=1711&hcb=2&ved=2ahUKEwjAj-jCjeiGAxXTCTQIHSFNDGgQM3oECBMQAA)
+
 
 ## Making the Training and Testing Sets and Model Predictions
 
