@@ -4,7 +4,7 @@
 
 ## Making the Training and Testing Sets and Model Predictions
 
-The columns in the credit data is divided into two components: the features(**loan_size**, **interest_ratio**, **borrower_income**, **debt_to_income**, **num_of_accounts**, **derogatory_marks**, and **total_debt**) and the label(**loan_status**). Both these components are split into training and testing sets, with 75% of the data being in the training set and the remaining 25% in the testing set. A Logistic Regression model is instantiated and fitted with the features and label data in the training set. The model is then used to predict labels when it is provided the features information in the testing set. 
+The columns in the credit data is divided into two components: the features(**loan_size**, **interest_ratio**, **borrower_income**, **debt_to_income**, **num_of_accounts**, **derogatory_marks**, and **total_debt**) and the label(**loan_status**). The "loan status" column is a binary classification outcome with either a healthy loan (represented by 0) or a high-risk loan (represented by 1). Both these components are split into training and testing sets, with 75% of the data being in the training set and the remaining 25% in the testing set. A Logistic Regression model is instantiated and fitted with the features and label data in the training set. The model is then used to predict labels when it is provided the features information in the testing set. 
 
 
 ## Evaluating the Model's Performance 
